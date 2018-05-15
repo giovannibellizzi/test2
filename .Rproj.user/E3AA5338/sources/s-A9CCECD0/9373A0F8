@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1523969764452.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9373A0F8",
+    "lastKnownWriteTime" : 1524784573,
+    "last_content_update" : 1524784573,
+    "path" : "~/Desktop/test2/Untitled.Rmd",
+    "project_path" : "Untitled.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "30,6",
+        "scrollLine" : "5",
+        "tempName" : "Untitled4"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

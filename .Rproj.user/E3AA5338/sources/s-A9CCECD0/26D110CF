@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1523969291272.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "26D110CF",
+    "lastKnownWriteTime" : 1526080265,
+    "last_content_update" : 1526080265,
+    "path" : "~/Desktop/test2/.Rhistory",
+    "project_path" : ".Rhistory",
+    "properties" : {
+        "cursorPosition" : "7,10",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_history"
+}
